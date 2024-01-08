@@ -1,0 +1,4 @@
+﻿  zadatak4.c
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj3\lab_vj3\zadatak4.c(50,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj3\lab_vj3\zadatak4.c(125): warning C4715: 'print': not all control paths return a value
+  lab_vj3.vcxproj -> C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj3\x64\Debug\lab_vj3.exe
