@@ -1,0 +1,3 @@
+﻿  zadatak9.c
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj9\lab_vj9\zadatak9.c(30,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_vj9.vcxproj -> C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj9\x64\Debug\lab_vj9.exe
