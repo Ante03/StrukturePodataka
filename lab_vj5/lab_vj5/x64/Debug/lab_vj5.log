@@ -1,0 +1,6 @@
+﻿  zadatak5.c
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj5\lab_vj5\zadatak5.c(30,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj5\lab_vj5\zadatak5.c(30,17): warning C4024: 'read_from_file': different types for formal and actual parameter 1
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj5\lab_vj5\zadatak5.c(31,29): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj5\lab_vj5\zadatak5.c(31,23): warning C4024: 'stringToStack': different types for formal and actual parameter 2
+  lab_vj5.vcxproj -> C:\Users\Ante\OneDrive\Radna površina\samostalne SP\lab_vj5\x64\Debug\lab_vj5.exe
